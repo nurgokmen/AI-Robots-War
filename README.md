@@ -5,7 +5,9 @@ AI Robots War is a Python project that simulates a grid-based map where autonomo
 # Features
 
 **_Map Parser_**: Reads a map file (map.txt) and identifies grid details and robot positions.
+
 **_Pathfinding_**: Implements the A* algorithm to find the shortest path between any two points.
+
 **_Graph Construction_**: Builds a graph of robots with the shortest path costs as edges.
 
 **Search Algorithms**:
