@@ -10,6 +10,7 @@ AI Robots War is a Python project that simulates a grid-based map where autonomo
 
 **_Graph Construction_**: Builds a graph of robots with the shortest path costs as edges.
 
+
 **Search Algorithms**:
 
 _Uniform Cost Search (UCS)_ to determine the optimal traversal route for all robots.
