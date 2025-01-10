@@ -17,7 +17,7 @@ _Uniform Cost Search (UCS)_ to determine the optimal traversal route for all rob
 _Depth-First Search (DFS)_ for alternative exploration.
 
 # Usage
--Map File (map.txt)_: Create a file that represents the grid map. Robots are represented by A, B, C, etc., and passable cells by 1. Impassable cells are 0.
+_Map File (map.txt)_: Create a file that represents the grid map. Robots are represented by A, B, C, etc., and passable cells by 1. Impassable cells are 0.
 
 **Example**:
 ```
@@ -39,6 +39,7 @@ Calculates and prints shortest paths and costs between robots.
 Outputs results of UCS and DFS.
 
 **Example Output**
+
 For a map:
 ```
 1,1,1,0
@@ -78,6 +79,7 @@ pip install numpy
 **Project Structure**
 
 <ins>astar.py</ins>: Main script containing map parsing, A*, UCS, and DFS implementations.
+
 <ins>map.txt</ins>: Input file defining the map layout.
 
 # Algorithms
